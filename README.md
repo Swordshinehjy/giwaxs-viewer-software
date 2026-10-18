@@ -37,7 +37,7 @@
 
 您可以通过以下链接获取软件的最新版本和更新：
 
-*   **百度网盘:**  [https://pan.baidu.com/s/1TlP4NTln2Tf3MxHLwq9MNA?pwd=0000](https://pan.baidu.com/s/12AjY4tcJhkzElMjDkPQ-GA?pwd=3333)  密码: `3333`
+*   **百度网盘:**  [https://pan.baidu.com/s/12AjY4tcJhkzElMjDkPQ-GA?pwd=3333](https://pan.baidu.com/s/12AjY4tcJhkzElMjDkPQ-GA?pwd=3333)  密码: `3333`
 
 建议您不定期访问这些链接，以获取软件的最新版本和功能。
 
